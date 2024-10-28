@@ -1,7 +1,7 @@
 ---
 title: Conclusions
 created: '2024-10-25T18:06:32.796Z'
-modified: '2024-10-25T18:07:05.022Z'
+modified: '2024-10-28T20:53:57.198Z'
 ---
 
 # Conclusions
@@ -24,3 +24,12 @@ qualified conclusions; often signaled by keywords:
 - Frequency: rarely, seldom, often, sometimes, usually
 - proximity: almost, nearly
 - if the argument indicates that a conclusion isnt necessarily true 100% or 0% of the time, it can be classified as indefinite
+
+## Identifying the Conclusion 
+- The conclusion in the one statement that is supported by the other students, and that itself doesn't support any other statements;
+  - DO NOT get it confused with the **Sub-Conclusion**, also known as the subsidiary or intermediate conclusion; it is a claim that isn't the main conclusion, it is a conclusion that supports a different conclusion (1+1 = 2, this is true because of these facts, so that means that it supports the idea that this is also true) 
+
+## Conclusion Checklist
+  - **Find the point**: Determine which statement seems like the main prediction, the value judgement, interpretation, or the theory; WHAT IS THE MAIN THING that the arguer is trying to convince us of?
+  - **Look for support indicator words**: Some words indicate the statement they introduce is part of support statement; are not conclusions; support indicators like becausem since, and for can introduce the EXPLANATION of why an arguer believes a claim
+  - **Clarify Pronouns**: If the main conclusion is ambiguous (Maybe it has supportive statements, and other claims that lead into the final conclusion of "*this* is a mistake". rearrange the the passage, what is "this" and what does it mean that it's a "mistake?")
